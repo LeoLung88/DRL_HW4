@@ -1,0 +1,11 @@
+# Environments
+.env
+api_key.md
+
+# Python
+__pycache__/
+*.pyc
+
+# Data & Outputs
+charts/
+sales.csv
